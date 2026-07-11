@@ -1,7 +1,11 @@
 # 介绍
 
 最好用的 sing-box 一键安装脚本 & 管理脚本
-wget https://github.com/zaman-dd/sing-box/archive/main.tar.gz -O sing-box-main.tar.gz;tar -zxvf sing-box-main.tar.gz;cd sing-box-main;chmod +x i*;./i* -l
+
+
+拷贝:wget https://github.com/zaman-dd/sing-box/archive/main.tar.gz -O sing-box-main.tar.gz;tar -zxvf sing-box-main.tar.gz;cd sing-box-main;chmod +x i*;./i* -l
+
+原版:bash <(wget -qO- -o- https://github.com/233boy/sing-box/raw/main/install.sh)
 
 # 特点
 
