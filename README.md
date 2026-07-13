@@ -1,8 +1,6 @@
 # 名称
 
 最好用的 sing-box 一键安装脚本 & 管理脚本
-
-安装代码
 <br><br>
 
 ## 本仓库一键安装代码
@@ -13,6 +11,7 @@ wget https://github.com/zaman-dd/sing-box/archive/main.tar.gz -O sing-box-main.t
 ## 原始仓库一键安装代码
 ```bash
 bash <(wget -qO- -o- https://github.com/233boy/sing-box/raw/main/install.sh)
+```
 
 # 设计理念
 设计理念为：**高效率，超快速，极易用**
