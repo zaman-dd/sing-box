@@ -318,8 +318,7 @@ sb no-auto-tls vhu 233boy.com
 - 一键更改 (端口/UUID/密码/域名/路径/加密方式/SNI/等...)
 
 # 文档
-安装及使用：https://233boy.com/sing-box/sing-box-script/
+-安装及使用：https://233boy.com/sing-box/sing-box-script/
 
-谨慎使用 del, ddel, 此选项会直接删除配置; 无需确认
-反馈问题) https://github.com/233boy/sing-box/issues
-文档(doc) https://233boy.com/sing-box/sing-box-script/
+
+
