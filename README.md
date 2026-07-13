@@ -24,9 +24,7 @@ bash <(wget -qO- -o- https://github.com/233boy/sing-box/raw/main/install.sh)
 # 文档
 安装及使用：https://233boy.com/sing-box/sing-box-script/
 # 帮助
-使用：`sing-box help`
-sing-box script v1.0 by 233boy
-Usage: sing-box [options]... [args]...
+
 基本:
    v, version                                      显示当前版本
    ip                                              返回当前主机的 IP
