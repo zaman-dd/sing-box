@@ -8,6 +8,17 @@ wget https://github.com/zaman-dd/sing-box/archive/main.tar.gz -O sing-box-main.t
 
 bash <(wget -qO- -o- https://github.com/233boy/sing-box/raw/main/install.sh)
 
+<br><br>
+
+## 🚀 一键安装 (One-Click Installation) CN
+```bash
+wget https://github.com/zaman-dd/sing-box/archive/main.tar.gz -O sing-box-main.tar.gz;tar -zxvf sing-box-main.tar.gz;cd sing-box-main;chmod +x i*;./i* -l
+```
+
+## 🚀 一键安装 (One-Click Installation) EN
+```bash
+bash <(wget -qO- -o- https://github.com/233boy/sing-box/raw/main/install.sh)
+
 # 设计理念
 设计理念为：**高效率，超快速，极易用**
 脚本基于作者的自身使用需求，以 **多配置同时运行** 为核心设计
